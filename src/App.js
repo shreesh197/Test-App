@@ -1,6 +1,4 @@
-import logo from "./logo.svg";
 import "./App.css";
-import { useEffect } from "react";
 import { getDetails } from "./service/apiEndpoints";
 
 const App = () => {
